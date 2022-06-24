@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/clubo-app/packages v0.0.0-20220527175458-6c8e7d7935c9
-	github.com/clubo-app/protobuf v0.0.0-20220527194713-edc207a1d44f
+	github.com/clubo-app/protobuf v0.0.0-20220601172316-8dde70f4bcaa
 	github.com/go-playground/validator/v10 v10.11.0
 	github.com/gofrs/uuid v4.2.0+incompatible
 	github.com/labstack/echo/v4 v4.7.2
